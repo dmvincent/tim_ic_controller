@@ -1,0 +1,8 @@
+../Core/Src/timerIC.c:19:6:SystemClock_Config	3
+../Core/Src/timerIC.c:52:6:Timer_Config	3
+../Core/Src/timerIC.c:70:6:HAL_TIM_IC_CaptureCallback	2
+../Core/Src/timerIC.c:84:6:LSE_Init	1
+../Core/Src/timerIC.c:99:6:UART6_Init	2
+../Core/Src/timerIC.c:115:6:BTN_GPIO_Init	1
+../Core/Src/timerIC.c:127:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/timerIC.c:137:6:Error_Handler	1
